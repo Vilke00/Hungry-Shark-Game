@@ -1,4 +1,6 @@
-# Python-game
-This is my simple game project in python using pygame. In agme you are fish eating smaller fish to get bigger and eat bigger fish
+# Hungry Shark game
+You move with arrows, your goal is to get the biggest score possible by eating fish and getting bigger
 
-![Gif_1__AdobeExpress(1)](https://user-images.githubusercontent.com/67857389/176929148-e9bb77b6-411d-491d-9ba1-59969af46b7e.gif)
+Short gameplay demo
+https://user-images.githubusercontent.com/67857389/176930974-961eb855-7c8c-486e-bb85-a92e050cda98.mp4
+
